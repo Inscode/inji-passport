@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "PassportApplicationCredential": {
-      "@id": "https://Inscode.github.io/inji-passport/passport-context.json#PassportApplicationCredential"
+      "@id": "https://Inscode.github.io/inji-passport/passport-context-v2.json#PassportApplicationCredential"
     },
     "sub_id": "schema:identifier",
     "application_number": "schema:identifier", 
