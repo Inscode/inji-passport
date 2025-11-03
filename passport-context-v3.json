@@ -17,7 +17,7 @@
     "district": "schema:addressRegion",
     "issued_date": "schema:Date",
     "expiry_date": "schema:Date",
-    "status": "schema:name",
+    "status": "schema:Text",
     "face": "schema:image"
   }
 }
