@@ -15,8 +15,8 @@
     "mobile_number": "schema:telephone",
     "email_address": "schema:email",
     "district": "schema:addressRegion",
-    "issued_date": "schema:Date",
-    "expiry_date": "schema:Date",
+    "issued_date": "schema:Text",
+    "expiry_date": "schema:Text",
     "status": "schema:Text",
     "face": "schema:image"
   }
