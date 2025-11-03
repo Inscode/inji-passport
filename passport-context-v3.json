@@ -16,6 +16,8 @@
     "email_address": "schema:email",
     "district": "schema:addressRegion",
     "status": "schema:Text",
+    "issued_date": "schema:Date",
+    "expiry_date": "schema:Date",
     "face": "schema:image"
   }
 }
