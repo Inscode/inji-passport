@@ -7,8 +7,8 @@
     "PassportApplicationCredential": {
       "@id": "https://Inscode.github.io/inji-passport/passport-context-v2.json#PassportApplicationCredential"
     },
+    "sludi_number": "schema:name",
     "application_number": "schema:identifier",
-    "sludi_number": "schema:identifier",
     "full_name": "schema:name",
     "birth_date": "schema:birthDate",
     "gender": "schema:gender",
@@ -17,6 +17,7 @@
     "district": "schema:addressRegion",
     "issued_date": "schema:Date",
     "expiry_date": "schema:Date",
+    "status": "schema:name",
     "face": "schema:image"
   }
 }
