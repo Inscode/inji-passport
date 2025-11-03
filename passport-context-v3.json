@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "PassportApplicationCredential": {
+      "@id": "https://Inscode.github.io/inji-passport/passport-context-v2.json#PassportApplicationCredential"
+    },
+    "application_number": "schema:identifier",
+    "sludi_number": "schema:identifier",
+    "full_name": "schema:name",
+    "birth_date": "schema:birthDate",
+    "gender": "schema:gender",
+    "mobile_number": "schema:telephone",
+    "email_address": "schema:email",
+    "district": "schema:addressRegion",
+    "issued_date": "schema:Date",
+    "expiry_date": "schema:Date",
+    "face": "schema:image"
+  }
+}
